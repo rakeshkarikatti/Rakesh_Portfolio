@@ -1,0 +1,1 @@
+Put your resume PDF here as public/resume.pdf. The website button is already configured for /resume.pdf.
